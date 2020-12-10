@@ -1,0 +1,17 @@
+-garlic
+-oil
+-ginger
+-chilli
+-spring onion
+-carrot
+-cabbage
+-capsicum
+-beans
+-soy sauce
+-vinegar
+-chilli sauce
+-pepper
+-sugar
+-salt
+-corn flour
+ 
